@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gtktest1", "gtktest1\gtktest1.csproj", "{1CF208D8-9C19-4538-AFFF-FAE8D2EE5D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF208D8-9C19-4538-AFFF-FAE8D2EE5D7F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1CF208D8-9C19-4538-AFFF-FAE8D2EE5D7F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1CF208D8-9C19-4538-AFFF-FAE8D2EE5D7F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1CF208D8-9C19-4538-AFFF-FAE8D2EE5D7F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
